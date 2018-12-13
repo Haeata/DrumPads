@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Blue style gradient -->
+    <color name="bluestartcolor">#47f9fe</color>
+    <color name="blueendcolor">#1295fd</color>
+
+    <!-- Orange style gradient -->
+    <color name="orangetartcolor">#feed64</color>
+    <color name="orangeendcolor">#dda660</color>
+
+    <!-- Pink style gradient -->
+    <color name="pinkstartcolor">#fd75a5</color>
+    <color name="pinkendcolor">#FFEF0C5C</color>
+
+    <!-- Purple style gradient -->
+    <color name="purplestartcolor">#FFFF64B2</color>
+    <color name="purpleendcolor">#c425ec</color>
+
+    <!-- Green style gradient -->
+    <color name="greenstartcolor">#b4fa51</color>
+    <color name="greenendcolor">#25ec28</color>
+
+    <!-- Free Play Button style gradient -->
+    <color name="freeplaystartcolor">#b4fa51</color>
+    <color name="freeplayendcolor">#25ec28</color>
+
+    <!-- Play Along Button style gradient -->
+    <color name="playalongstartcolor">#fd75a5</color>
+    <color name="playalongendcolor">#FFEF0C5C</color>
+
+    <!-- About Button style gradient -->
+    <color name="aboutstartcolor">#47f9fe</color>
+    <color name="aboutendcolor">#1295fd</color>
+</resources>
